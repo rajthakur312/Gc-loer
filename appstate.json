@@ -1,46 +1,3 @@
-[
-    {
-        "key": "dbln",
-        "value": "%7B%22100067425282492%22%3A%22Z6SLPduy%22%2C%2261584049653218%22%3A%221L9onDwn%22%7D",
-        "domain": "facebook.com",
-        "path": "/login/device-based/",
-        "hostOnly": false,
-        "creation": "2025-11-26T08:03:55.126Z",
-        "lastAccessed": "2025-11-26T08:03:55.133Z"
-    },
-    {
-        "key": "sb",
-        "value": "aDWQaJbOKdoNswxesJykKy7n",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-11-26T08:03:55.133Z",
-        "lastAccessed": "2025-11-26T08:03:55.133Z"
-    },
-    {
-        "key": "vpd",
-        "value": "v1%3B683x360x2",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-11-26T08:03:55.133Z",
-        "lastAccessed": "2025-11-26T08:03:55.133Z"
-    },
-    {
-        "key": "ps_l",
-        "value": "1",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-11-26T08:03:55.133Z",
-        "lastAccessed": "2025-11-26T08:03:55.133Z"
-    },
-    {
-        "key": "ps_n",
-        "value": "1",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
         "creation": "2025-11-26T08:03:55.133Z",
         "lastAccessed": "2025-11-26T08:03:55.133Z"
     },
@@ -135,3 +92,4 @@
         "lastAccessed": "2025-11-26T08:03:55.133Z"
     }
 ]
+
